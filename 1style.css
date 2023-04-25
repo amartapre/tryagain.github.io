@@ -1,0 +1,42 @@
+body
+{
+    background-color: rgba(245, 10, 175, 0.669);
+    
+}
+.registration
+{
+    width: 380px;
+    height: 680px;
+    background-color:white;
+    margin: auto;
+    border-radius: 5px;
+
+}
+h2
+{
+    text-align: center;
+    margin-top: 25px;
+}
+form
+{
+    width: 300px;
+    margin-left: 20px;
+}
+form label
+{
+    display:flex ;
+    margin-top: 2px;
+}
+input
+{
+    width: 100%;
+    padding: 3px;
+    border: none;
+    border:1px solid grey;
+    border-radius: 5px;
+    outline: none;
+}
+input[type="checkbox"]
+{
+width: 10px;
+}
